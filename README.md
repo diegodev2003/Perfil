@@ -26,6 +26,8 @@ Meu objetivo é evoluir constantemente, desenvolver projetos dos quais me orgulh
   
 </div>📫 Como me encontrar
 
+
+
 <div>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diegodasilvasantos2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
