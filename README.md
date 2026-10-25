@@ -24,9 +24,9 @@ Meu objetivo é evoluir constantemente, desenvolver projetos dos quais me orgulh
   <img align="center" alt="Diego-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   
-</div>📫 Como me encontrar
+</div>
 
-
+<br>📫 Como me encontrar
 
 <div>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=diegodasilvasantos2003@gmail.com" target="_blank">
